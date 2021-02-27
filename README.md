@@ -3,22 +3,22 @@
 
 ### Skills
 Programming languages:
-  C/C++, C#, Python, JavaScript, Java, Scala.
+  - C/C++, C#, Python, JavaScript, Java, Scala.
 
 Frontend:
-  HTML, CSS, JavaScript, TypeScript
-  Angular
+  - HTML, CSS, JavaScript, TypeScript
+  - Angular
 
 Backend:
-  Python, Scala, Javascript
-  Django, DRF, AKKA Framework, Node.Js(Express.Js)
+  - Python, Scala, Javascript
+  - Django, DRF, AKKA Framework, Node.Js(Express.Js)
  
 DataBases:
-  SQL: PostgreSQL, MySQL
-  NoSQL: MongoDB
+  - SQL: PostgreSQL, MySQL
+  - NoSQL: MongoDB
  
 Other tools:
-  Docker, Postman, Kafka.
+  - Docker, Postman, Kafka.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daulet02&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daulet02&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
