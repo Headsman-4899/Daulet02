@@ -19,6 +19,7 @@ DataBases:
  
 Other tools:
   - Docker, Postman, Kafka.
+  - Algorithms and Data Scructures
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daulet02&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daulet02&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
