@@ -11,17 +11,17 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daulet02&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daulet02&repo=github-readme-stats)](https://github.com/Daulet02/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daulet02&repo=github-readme-stats)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daulet02)](https://github.com/Daulet02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daulet02)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daulet02&exclude_repo=github-readme-stats,Daulet02.github.io)](https://github.com/Daulet02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daulet02&exclude_repo=github-readme-stats,Daulet02.github.io)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daulet02&langs_count=8)](https://github.com/Daulet02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daulet02&langs_count=8)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daulet02&layout=compact)](https://github.com/Daulet02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daulet02&layout=compact)]
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daulet02)](https://github.com/Daulet02/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daulet02)]
 
 
 Here are some ideas to get you started:
