@@ -26,7 +26,7 @@ Other tools:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Headsman-4899&repo=NodeJs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Headsman-4899&repo=Backend-for-Highloaded-Environment&t&langs_count=10heme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Headsman-4899&repo=Backend-for-Highloaded-Environment&t&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Headsman-4899&margin-w=29&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
