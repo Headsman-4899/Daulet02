@@ -10,15 +10,15 @@ Frontend:
   - Angular
 
 Backend:
-  - Python, Scala, Javascript
-  - Django, DRF, AKKA Framework, Node.Js(Express.Js)
+  - Python, Scala
+  - Django, DRF, AKKA Framework
  
 DataBases:
   - SQL: PostgreSQL, MySQL
-  - NoSQL: MongoDB
+  - NoSQL: MongoDB, Cassandra
  
 Other tools:
-  - Docker, Postman, Kafka.
+  - Docker, Postman, Kafka, Elasticsearch
   - Algorithms and Data Scructures
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Headsman-4899&show_icons=true&theme=radical)
