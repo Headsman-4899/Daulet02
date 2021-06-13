@@ -1,7 +1,6 @@
 
 ![tenor](https://user-images.githubusercontent.com/47030118/121799348-668d0c80-cc4d-11eb-94c6-5c98b299710e.gif)
-### Hi there 👋 My name is Daulet.
-### Welcome to my GitHub profile :
+### Hi there 👋 My name is Daulet. Welcome to my GitHub profile :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Headsman-4899&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Headsman-4899&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
