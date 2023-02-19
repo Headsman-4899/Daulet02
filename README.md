@@ -20,7 +20,7 @@
 <p  align="center"> 
 
 <img width="5%" title="Java" src="media/icons/Java.svg">
-<img width="5%" title="Spring" src="media/icons/Spring.png">
+<img width="4%" title="Spring" src="media/icons/Spring.png">
 <img width="5%" title="Scala" src="media/icons/Scala.png">
 <img width="5%" title="Akka" src="media/icons/Akka.png">
 <img width="5%" title="Python" src="media/icons/Python.png">
