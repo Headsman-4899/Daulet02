@@ -20,7 +20,12 @@
 <p  align="center"> 
 
 <img width="5%" title="Java" src="media/icons/Java.svg">
-<img width="5%" title="Selenoid" src="media/icons/Selenoid.svg">
+<img width="5%" title="Spring" src="media/icons/Spring.png">
+<img width="5%" title="Scala" src="media/icons/Scala.png">
+<img width="5%" title="Akka" src="media/icons/Akka.png">
+<img width="5%" title="Python" src="media/icons/Python.png">
+<img width="5%" title="Django" src="media/icons/Django.png">
+<img width="5%" title="PyTest" src="media/icons/Pytest.svg">
 <img width="5%" title="Selenide" src="media/icons/Selenide.svg">
 <img width="5%" title="Gradle" src="media/icons/Gradle.svg">
 <img width="5%" title="Junit5" src="media/icons/Junit5.svg">
