@@ -21,7 +21,7 @@
 
 <img width="5%" title="Java" src="media/icons/Java.svg">
 <img width="4%" title="Spring" src="media/icons/Spring.png">
-<img width="6%" title="Scala" src="media/icons/Scala.png">
+<img width="7%" title="Scala" src="media/icons/Scala.png">
 <img width="5%" title="Akka" src="media/icons/Akka.png">
 <img width="4%" title="Python" src="media/icons/Python.png">
 <img width="6%" title="Django" src="media/icons/Django.png">
