@@ -36,13 +36,13 @@
 </p>
   
   ## My projects:
-### :heavy_check_mark: UI Autotests for bookcity.kz web store
+### :heavy_check_mark: Games Store
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Headsman-4899&repo=Games-Store)](https://github.com/Headsman-4899/Games-Store)
 
-### :heavy_check_mark: API Autotests for reqres.in website
+### :heavy_check_mark: Book Shop
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Headsman-4899&repo=Akka-Final)](https://github.com/Headsman-4899/Akka-Final)
 
-### :heavy_check_mark: Mobile Autotests for Wikipedia app
+### :heavy_check_mark: Torrent App
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Headsman-4899&repo=Django-Project-Endterm)](https://github.com/Headsman-4899/Django-Project-Endterm)
 
 ### My stats:
