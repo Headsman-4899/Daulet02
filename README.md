@@ -37,13 +37,13 @@
   
   ## My projects:
 ### :heavy_check_mark: UI Autotests for bookcity.kz web store
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaurB&repo=final_project_ui)](https://github.com/DaurB/final_project_ui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Headsman-4899&repo=Games-Store)](https://github.com/Headsman-4899/Games-Store)
 
 ### :heavy_check_mark: API Autotests for reqres.in website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaurB&repo=final_project_api)](https://github.com/DaurB/final_project_api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Headsman-4899&repo=Akka-Final)](https://github.com/Headsman-4899/Akka-Final)
 
 ### :heavy_check_mark: Mobile Autotests for Wikipedia app
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaurB&repo=final_project_mobile)](https://github.com/DaurB/final_project_mobile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Headsman-4899&repo=Django-Project-Endterm)](https://github.com/Headsman-4899/Django-Project-Endterm)
 
 ### My stats:
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Headsman-4899&theme=solarized_dark)
