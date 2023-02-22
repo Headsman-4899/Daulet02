@@ -28,7 +28,7 @@
 <img width="6%" title="Django" src="media/icons/Django.png">
 <img width="4%" title="PyTest" src="media/icons/Pytest.svg">
 <img width="5%" title="Selenide" src="media/icons/Selenide.svg">
- <img width="5%" title="Maven" src="media/icons/Maven.png">
+<img width="5%" title="Maven" src="media/icons/Maven.png">
 <img width="5%" title="Gradle" src="media/icons/Gradle.svg">
 <img width="5%" title="Junit5" src="media/icons/Junit5.svg">
 <img width="5%" title="Allure Report" src="media/icons/Allure.svg">
