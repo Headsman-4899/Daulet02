@@ -19,6 +19,7 @@
 
 <p  align="center"> 
 
+<img width="5%" title="Golang" src="media/icons/Golang.jpeg">
 <img width="5%" title="Java" src="media/icons/Java.svg">
 <img width="4%" title="Spring" src="media/icons/Spring.png">
 <img width="7%" title="Scala" src="media/icons/Scala.png">
