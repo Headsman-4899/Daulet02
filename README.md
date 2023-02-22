@@ -32,9 +32,6 @@
 <img width="5%" title="Junit5" src="media/icons/Junit5.svg">
 <img width="5%" title="Allure Report" src="media/icons/Allure.svg">
 <img width="5%" title="Allure TestOps" src="media/icons/Allure_TO.svg">
-<img width="5%" title="Jenkins" src="media/icons/Jenkins.svg">
-<img width="5%" title="Appium" src="media/icons/Appium.svg">
-<img width="5%" title="Browserstack" src="media/icons/Browserstack.svg">
 <img width="5%" title="RestAssured" src="media/icons/RestAssured.svg">
 <img width="5%" title="Jira" src="media/icons/Jira.svg">
 
