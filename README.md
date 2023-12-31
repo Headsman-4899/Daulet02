@@ -1,5 +1,10 @@
-### Hi there! My name is Daulet 👋
+### Hi there! My name is Daulet 👋 Welcome to my GitHub profile
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer)](https://git.io/typing-svg)
+
+### ✌️ About me
+* 🎓 B.Sc of Computer Science at [KBTU](https://kbtu.edu.kz/en/)
+* 💻 Software Development Engineer at [Kcell JSC](https://kcell.kz/en/home/)
+* 🤔 Interested in DevOps and Data Engineering
 
 ### How to reach me:
 
@@ -15,17 +20,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   
-  ### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools :
 
-<p  align="center"> 
+<p align="center"> 
 
-<img width="5%" title="Golang" src="media/icons/Golang.jpeg">
+<img width="5%" title="Golang" src="media/icons/Golang.png">
 <img width="5%" title="Java" src="media/icons/Java.svg">
-<img width="4%" title="Spring" src="media/icons/Spring.png">
-<img width="7%" title="Scala" src="media/icons/Scala.png">
-<img width="5%" title="Akka" src="media/icons/Akka.png">
-<img width="4%" title="Python" src="media/icons/Python.png">
-<img width="6%" title="Django" src="media/icons/Django.png">
+<img width="5%" title="Spring" src="media/icons/Spring.png">
+<img width="5%" title="Scala" src="media/icons/Scala.png">
+<img width="6%" title="Akka" src="media/icons/Akka.png">
+<img width="5%" title="Python" src="media/icons/Python.png">
+<img width="5%" title="Django" src="media/icons/Django.svg">
 <img width="4%" title="PyTest" src="media/icons/Pytest.svg">
 <img width="5%" title="Selenide" src="media/icons/Selenide.svg">
 <img width="5%" title="Maven" src="media/icons/Maven.png">
@@ -39,7 +44,7 @@
 
 </p>
   
-  ## My projects:
+  <!-- ## My projects:
 ### :heavy_check_mark: Games Store
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Headsman-4899&repo=Games-Store)](https://github.com/Headsman-4899/Games-Store)
 
@@ -47,7 +52,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Headsman-4899&repo=Akka-Final)](https://github.com/Headsman-4899/Akka-Final)
 
 ### :heavy_check_mark: Torrent App
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Headsman-4899&repo=Django-Project-Endterm)](https://github.com/Headsman-4899/Django-Project-Endterm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Headsman-4899&repo=Django-Project-Endterm)](https://github.com/Headsman-4899/Django-Project-Endterm) -->
+
+### Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=diable201&margin-w=38&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### My stats:
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Headsman-4899&theme=solarized_dark)
