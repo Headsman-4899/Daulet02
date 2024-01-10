@@ -3,8 +3,8 @@
 
 ### ✌️ About me
 * 🎓 B.Sc of Computer Science at [KBTU](https://kbtu.edu.kz/en/)
-* 💻 Software Development Engineer at [Kcell JSC](https://kcell.kz/en/home/)
-* 🤔 Interested in DevOps and Data Engineering
+<!-- * 💻 Software Development Engineer at [Kcell JSC](https://kcell.kz/en/home/) -->
+* 🤔 Interested in QA Automation, DevOps and Data Engineering
 
 ### How to reach me:
 
