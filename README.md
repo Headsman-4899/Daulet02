@@ -3,7 +3,7 @@
 
 ### ✌️ About me
 * 🎓 B.Sc of Computer Science at [KBTU](https://kbtu.edu.kz/en/)
-<!-- * 💻 Software Development Engineer at [Kcell JSC](https://kcell.kz/en/home/) -->
+* 💻 Software Development Engineer at [Kcell JSC](https://kcell.kz/en/home/)
 * 🤔 Interested in QA Automation, DevOps and Data Engineering
 
 ### How to reach me:
@@ -15,7 +15,7 @@
    <a href="mailto:dauletkd01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-<!--  
+
   <a href="https://www.linkedin.com/in/daulet-kareneyev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
